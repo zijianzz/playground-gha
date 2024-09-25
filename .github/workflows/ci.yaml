@@ -16,4 +16,4 @@ jobs:
       - name: Test
         run: sleep 30
       - name: Test
-        run: echo ''
+        run: echo 'd'
